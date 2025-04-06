@@ -1,0 +1,7 @@
+# Requiere Python 3.10
+pandas==2.2.3
+numpy==1.26.4
+scikit-learn==1.6.1
+lightgbm==4.6.0
+catboost==1.2.7
+xgboost==3.0.0
